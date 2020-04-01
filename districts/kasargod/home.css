@@ -14,8 +14,11 @@
         color:brown;
         font-size: 18px;
     }
-    li.list{
-        margin: 10px;
-        color: brown;
+    .container{
+        margin-top: 20px;
     }
-    
+    img{
+        height: 100%;
+        width: 100%;
+
+    }
