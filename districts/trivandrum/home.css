@@ -1,0 +1,21 @@
+    
+    body{
+        font-family: cursive;
+        background-color: black;
+        
+    }
+    h1{
+        margin-top: 35px;
+        font-size: 4vw;  
+        color: blanchedalmond; 
+    }
+    .row1{
+        margin-top: 40px;
+        color:brown;
+        font-size: 18px;
+    }
+    li.list{
+        margin: 10px;
+        color: brown;
+    }
+    
